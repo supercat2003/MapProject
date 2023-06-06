@@ -24,7 +24,7 @@ p{
     padding-right: 5px;
     max-width: max-content;
     margin: auto;
-    font-size: 80%;
+    font-size: 120%;
 }
 
 .area-map {
@@ -85,7 +85,7 @@ p{
 
 
 .slider-container * {
-    font-size: 80%;
+    font-size: 120%;
     margin: auto;
 }
 
@@ -108,7 +108,7 @@ nav ul li {
     display: inline-block;
     list-style: none;
     margin: 20px 20px;
-    font-size: 80%;
+    font-size: 120%;
 }
 
 nav ul li a {
@@ -136,13 +136,13 @@ li {
 .title {
     padding: 30px 20px;
     text-align: center;
-    font-size: 80%;
+    font-size: 120%;
     font-weight: 700;
     border-bottom: 1px solid #ebedec;
 }
 
 .tabs_wrap {
-    font-size: 80%;
+    font-size: 120%;
     color: #858585;
     padding: 20px;
     border-bottom: 1px solid #ebedec;
@@ -186,7 +186,7 @@ li {
     color: #ffffff;
     font-weight: 600;
     letter-spacing: 1px;
-    font-size: 80%;
+    font-size: 120%;
 }
 
 .item {

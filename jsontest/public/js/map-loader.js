@@ -423,7 +423,17 @@ require([
     });
 
 
-    
+    // const legend = new Legend({
+    //     view: view,
+    //     fontSize: 30,
+    //     layerInfos: [
+    //         {
+    //             layer: temperatureLayer,
+    //             title: "Температуры водной поверхности"
+    //         }
+    //     ]
+    // });
+    // view.ui.add(legend, "top-right");
 
 
     const fullscreen = new Fullscreen({
